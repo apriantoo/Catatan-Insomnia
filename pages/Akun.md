@@ -1,0 +1,13 @@
+- Akun Google
+	- aprikiler06@gmail.com
+	- apriantoaja777@gmail.com
+	- ubansekjih@gmail.com
+- Akun Game
+- PUBG
+	- apriantoaja777
+- akun facebook
+	- 085180578398
+		- aprianto140706
+			- apri teman banyak
+		- 607041
+			- apri teman dikit
