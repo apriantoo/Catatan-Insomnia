@@ -1,0 +1,4 @@
+- Salah satu tulisan saya yang menyinggung persoalan pasangan
+- [[Romantism]]
+-
+-

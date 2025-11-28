@@ -1,0 +1,25 @@
+- jadi disini saya lebih banyak praktim menggunakan software
+- #[[GNU Octave]]
+-
+- A. Fungsi transfer
+  B. Kestabilan sistem dengan gambar diagram pole zero
+  C. Respon impulse
+- Ini adalah "Tritunggal" dalam analisis sistem. Kalau lu paham hubungan ketiganya, lu aman.
+-
+- ## Fungsi Transfer
+	-
+	- Bayangin lu punya sebuah **"Kotak Ajaib"** (ini sistemnya). Lu masukin sesuatu (Input), terus keluar sesuatu yang beda (Output).
+	- Nah, **Fungsi Transfer** itu adalah **identitas si kotak itu**. Itu adalah rumus matematika yang ngejelasin apa yang bakal dilakuin si kotak terhadap *apapun* yang lu masukin.
+	- Secara matematis (pake domain Z atau S, bukan waktu), rumusnya simpel banget:
+	-
+		- H(z)=X(z)/Y(z)
+	- ​
+	- Dimana:
+	- Y(z) = Output
+	- X(z) = Input
+	- H(z) = Fungsi Transfer (Si Kotak Ajaib tadi)
+	-
+	-
+	-
+-
+-
