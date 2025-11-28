@@ -8,7 +8,7 @@
 - [[Romantism]]
 - [[Medan di Pagi Hari]]
 - [[Gadis Jawa yang Mematikan]]
-- [[berjalan di atas tali tipis di tengah badai.]]
+- [[Usaha menjadi Lilin]]
 -
 -
 -
