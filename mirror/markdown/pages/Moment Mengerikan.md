@@ -1,0 +1,44 @@
+id:: 6a85ebb8-edab-4e3a-b48d-c70ae1058772
+
+- ada suatu moment yang mengerikan di hidup saya
+- dan saya baru teringat dan menyadarinya.
+- yang dimana saat itu adalah waktu ibu saya sakit-sakitan
+- lebih tepat nya dia terkena asam lambung.
+-
+- Seingat saya waktu itu saya berada di antara kelas 5 atau 6 sd. atau bahkan mungkin smp. Ibu saya sakit-sakitan kurang lebih hampir 2 tahun.
+- Dan tentunya didalam rumah itu hanya ada Ibu, abang, dan saya sendiri.
+- akan tetapi abang saya kadang tidak dirumah dan kalau pulangpun dia pulang malam
+- dan abang saya bisa dibilang yang nakal.
+- lalu saya sendiri yang kadang harus menemani ibu saya dirumah,
+- dia sering memintaku untuk dirumah saja menemani dia, karena dia sering kali merasa ketakutan. Akana tetapi apalah daya diriku yang masih bocah itu. Sering juga aku tidak mendengarkan ucapanya lalu pergii untuk bermain wifi disebuah kedai dekat mesjid dikampung saya. dan terkadang ibu saya menjemput saya untuk menyuruh pulang.
+- Sudah mencoba berbagai cara ibu saya melakukan pengobatan
+- mulai dari ilmu matter sampai akhirnya ke mistik
+- dengan mempercayai dukun. tentunya saya waktu itu juga percaya.
+- sesekali mungkin ibu saya berfikir bahwa anak anak nya mungkin berfikir bahwa penyakit nya dibuat buat.
+-
+- dan yah kami ada 5 saudara, 2 laki, 3 perempuan.
+- dan 2 perempuan berada di malaysia, dan tadi saya sudah sebutkan abang yang tidak berguna. dan satu lagi yaitu kakak pertama saya tetapi tidak tinggal serumah dengan kami.
+- dan kadang juga dia sangat direpotkan dengan ibu.
+- penyakit akan merasa ketakutan berada dirumah membuat ibu
+- pindah kerumah kakak. tentunya ibu juga membawa diriku.
+- ku akui kakak pertama ku ini memang sangat penyabar dan baik.
+- dirumah nya yang kecil dengan 1 kamar dan kadang rumah nya sering berserakan itu. dikarenakan 2 anak laki lakinya. Dia masih bisa menerima kami(aku tidak tahu apa yang dia rasakan)
+- Lalu masuk lah pada moment yang paling mengerikan
+- sakit ibu saya semakin parah
+- lalu dia masuk kerumah sakit
+- dan pada saat itu aku hanya sekali menjenguk nya dirumah sakit
+- sebab pada saat itu aku tidak tahu apa yang harus kulakukan
+- dihari aku menjenguk-nya kulihat dia berbaring dan seingat ku dia tidak berbicara sepatah kata pun kepada.
+- memang sakitnya belum sembuh dan masih parah
+- tetapi dia tidak mau berada dirumah sakit
+- lalu kembali kerumah kami
+- dan pada waktu itu kakak yang jadi sering menginap dirumah kami
+- jujur saja waktu itu kupikir ibu akan segera pergi
+- dan aku tidak bisa berbuat apapun bahkan tidak tahu  harus apa
+- dan jika aku disuruh mengulangi kejadian ini lagi
+- aku pasti tidak aka mau dan tidak akan kuat
+- karena ini moment yang mengerikan dalam hidup ku
+-
+-
+-
+- diedit 14 juni 2025

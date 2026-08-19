@@ -1,0 +1,32 @@
+id:: 6a85ebb8-de6f-4628-b949-cf706f572d70
+
+- Sekarang tepat pukul satu pagi, sekira kiranya 2 jam waktu yang telah kuuhabiskan untuk gelisa. Ahh sialan, kepala ini sangat berisik memikarkan tentang ini dan itu dan yaa tentu saja keinginanya untuk dikeluarkan kepada orang lain,namun tak ada telinga yang bersedia mendengarkan. pada  akhirnya berakhir pada tulisan ini.
+- Padahal aku ingin memperbaiki jam tidur ku dan besok paginya aku akan berlalri dan menyusuri kota medan dan menyapa pagi.
+- Tapi entah kenapa hati memintaku duduk di sini,menumpahkan isi kepala yang berkabut
+-
+- bingung aku darimana harus menguraikan isi pikiran ku
+- kita mulai darimana sajalah dan mengalir.
+- yah mungkin ini seorang yang ideal untuk ku, yaitu seorang sahabat yang bisa kutelanjangi isi pikiranku di hadapannya—baik burukku, gelap terangnya. Bukan permainan peran, bukan topeng yang harus kupasang, bukan pendekatan manis yang palsu. serta dia mau menerimanya.
+- nah berbeda dengan pdktan yang ku anggap sebagai kepalsuan, tentu saja ini menurut pengalaman ku pribadi dan menyaksikan kisah cinta teman teman ku. Berbeda dengan seorang sahabat yang dimana aku bisa menjadi diriku seutuhnya dan tidak takut akan penghakiman yang diberikanya, sedangkan pada pdktan dimana aku hanya mampu menunjukan satu sisi ku saja dan menyembunyikan keburukan ku.
+- mungkin jika ada seseorang yang ingin mempunyai hubungan dengan ku dan mempuyai tujuan yang sama yaitu tujuan akhirnya untuk bisa hidup bersama sampai maut memisahkan. dan tentunya lolos seleksi dari diriku ini maka akan dengan senang hati aku menerimanya.  Tetapi dalam proses ini berbeda dengan kebanyakan orang yang menyebut hal ini sebagai "Pacaran" maka aku akan menyebut nya sebagai seorang "sahabat"  dimana ku anggap makna nya lebih dalam dari "pacaran' itu.
+- Akan tetapi sampai detik ini belum ada sosok sahabat itu, yang hanya ada mendekati. Atau mungkin juga tidak akan pernah ada.
+- tapi inilah idealisme ku yang masih ku pegang, mungkin bisa kupegang selama berpuluh puluh tahun atau bahkan sampai mati maka jadi Bujang lapuklah aku seumur hidup.
+- Atau mungkin akan kubunuh Idealismeku?, tentu hanya waktu sang misteri yang bisa memberi jawaban. Bisa jadi kemungkinan ini kecil dikarenakan keras kepala ku ini.
+- Pernah aku hampir mendapati seorang yang hampir menjadi sahabat, tetapi tetap rasa akan keburukan ini tetap ada dan tidak mau keluar, sekira kiranya hampir 2 tahun. Yang kuharap adalah kami bisa becerita, menangis dan tertawa bersama, saling mensupport atau bahkan saling berdiskusi dan saling mengajari dalam bidang akademik bersama sama.
+- Sang realitas pun datang menerpa seperti angin badai kuat kuat sekali yang mampu menghancurkan dan merontokan  idealisme ku ini. Realitas memang kejam, tak kudapati apa yang ku bayangkan. yang kudapati adalah Aku dicampakkan, seperti mainan yang dulu memikat, kini membosankan.
+- Tentunya aku bersyukur atas hal ini.
+- Sejak itu, aku membekukan hatiku.
+- Membuat seleksi masuk hatiku seketat ujian Gaokao.
+- Atau mungkin tak ada yang akan bisa lolos.
+- Pun tidak ada salahnya jika dalam kesendirian selagi aku masih bisa menikamati kesendirian itu, masih banyak teman dan orang kocak disekitar ku.
+- Aku lebih memilih hubungan yang dalam dan kuat sampai dasar dan ke intinya
+- nah inilah yang kusebut sebagai "***kemandirian***" daripada diperbudak oleh dorongan "***biologis***"  yang sebelumya telah kutulis. Tetap aku percaya akan cinta dan kasih sayang karena pada dasarnya manusia adalah makhluk sosial. Mungkin ranah ini masuk ke humaniora.
+- *kemandirian* dan dorongan *biologis* itu tentu merupakan satu kesatuan yang seharusnya dimiliki oleh setiap individup. Tetapi dalam realitas dan dari pengalaman teman teman ku, dapat kusimpulkan bahwa hanya dorongan biologis mereka saja yang hidup sedangkan sang kemandirian itu tidak ada. Hal ini yang menyebabkan kebanyakan orang berganti ganti pasangan bagai hewan mencari insting.
+- Kasar memang, tapi begitulah kenyataannya.
+- Aku juga dahulu punya seorang pacar tentu waktu itu aku masih belum terbangun dan tersadar. Waktu itu aku Saat SMP. Dia kakak kelasku. Pintar dan dewasa.
+- Dia juga pacar pertama ku. tentunya waktu itu aku masih bocah dan belum bisa berfikir jadi ikut ikut saja alias fomo, dan tentunya karena dorongan biologis.
+- Hubungan kami berjalan lancar selama kurang lebih 6 bulan. Dan akhirnya aku terbangun dan tersadar pada momen pengumuman ranking yang diumumkan secara menyeluruh di lapangan. Kuketahui dia sangat pintar sementara diriku ini hanya apalah seorang siswa yang bermasalah. Nah dari situ muncul ke insecuranku dan mengakar sampai pertanyaan pertanyaan yang mendalam tentang hubungan ku ini. Apa semua? untuk apa? tujuan apa? dan pertanyaan lainya. Semua pertnyaan tadi tidak terawab. serta yang terakhir belum mampunya diri ini untuk dirinya, sementara aku masih minta uang dan makan oleh orang tua. bahkan mencukupi diri sendiri saja tentu belum bisa
+- Dan disinilah aku mulai aneh dan berbeda dengan teman teman ku dan terbawa sampai sekarang. aku memutuskan meninggalkan hubungan yang penuh dengan ketidakjelasan itu begitu saja, sungguh maafkan aku, wajarkan lah seorang bocah SMP yang penuh kegeoisan itu.  Yang seharusnya masih bisa dibicarkan dan di diskusikan lagi dengan baik. Masih ingat betul aku dia menangis, mendatangi kelas ku. sungguh kubuat hancur hatinya. maafkan.
+- mungkin sudah atau akan kuterima karma itu. Entah lah, kalaupun akan, akan kuterima.
+- Ahhh mungkin itu aja cerita malam ini, tentunya ini bukan dongeng. ini rill booyy
+- kisah nyata Apriatno awkwoawaokwaok
