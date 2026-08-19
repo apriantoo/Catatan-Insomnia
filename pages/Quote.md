@@ -1,4 +1,0 @@
-- disni gua bakal letakin quote quote bagus yang gua temuin
--
--
-- kalau bisa

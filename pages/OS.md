@@ -1,4 +1,0 @@
-- [[windows]]
-- [[MacOS]]
-- [[Distro Linux]]
--

@@ -1,5 +1,0 @@
-- [[Pengolahan Sinyal Digital]]
-	-
-	-
-	-
--

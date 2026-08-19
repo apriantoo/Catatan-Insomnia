@@ -1,2 +1,0 @@
-- halo perkenalkan nama gua yanto
--
