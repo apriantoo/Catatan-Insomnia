@@ -8,3 +8,11 @@
 2026-08-19T17:45:27.254Z [info] [frontend.worker.db-core] {:gc-sqlite-dbs "gc current graph", :line 396}
 2026-08-19T17:45:27.257Z [stdio] [stdout] :debug :db-gc There's no garbage data that's need to be collected.
 2026-08-19T17:45:27.542Z [info] [frontend.worker.db-worker-node] {:db-worker-node-ready {:host "127.0.0.1", :port 49898}, :line 641}
+2026-08-19T18:12:38.875Z [info] [frontend.worker.db-worker-node] {:db-worker-node-version {:build-time "2026-07-13T06:22:00.122282361Z", :revision "b09316a"}, :line 578}
+2026-08-19T18:12:38.877Z [info] [frontend.worker.platform.node] {:db-worker-node-platform {:root-dir "C:\\Users\\Administrator\\logseq", :vector-embedding-enabled? false, :embedding-endpoint nil, :embedding-model-id nil}, :line 701}
+2026-08-19T18:12:38.884Z [info] [frontend.worker.db-core] {:db-worker/init-service {:graph "logseq_db_Catatan-Insomnia", :prev-graph nil, :import-type nil}, :line 1731}
+2026-08-19T18:12:38.887Z [info] [frontend.worker.db-core] {:db-worker/on-become-master-start {:repo "logseq_db_Catatan-Insomnia", :import-type nil}, :line 1696}
+2026-08-19T18:12:38.889Z [info] [frontend.worker.db-core] {:db-worker/get-dbs-open {:repo "logseq_db_Catatan-Insomnia", :db-path "C:\\Users\\Administrator\\logseq\\graphs\\Catatan-Insomnia\\db.sqlite"}, :line 362}
+2026-08-19T18:12:38.890Z [info] [frontend.worker.db-core] {:db-worker/get-dbs-open {:repo "logseq_db_Catatan-Insomnia", :search-path "C:\\Users\\Administrator\\logseq\\graphs\\Catatan-Insomnia\\search\\db.sqlite"}, :line 367}
+2026-08-19T18:12:38.891Z [info] [frontend.worker.db-core] {:db-worker/get-dbs-open {:repo "logseq_db_Catatan-Insomnia", :client-ops-path "C:\\Users\\Administrator\\logseq\\graphs\\Catatan-Insomnia\\client-ops-\\db.sqlite"}, :line 376}
+2026-08-19T18:12:38.957Z [info] [frontend.worker.db-worker-node] {:db-worker-node-ready {:host "127.0.0.1", :port 50217}, :line 641}
