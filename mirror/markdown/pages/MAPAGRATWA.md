@@ -1,0 +1,253 @@
+id:: 6a89f88d-5dcf-4859-a22b-9dd8e8219a5f
+
+- Latihan Pemantapan Arung Jeram(LANTAP)
+  - Jadi kali ini kami akan melakasanakan lantap pertama kami, lantap arung jeram yang dimana kadiv nya adalah kak Yamcha. yang dilakukan di sungai buaya di kabupaten deli serdang
+  - sabtu 30 mei 2026
+  - saya dari kos menuju titik kumpul di pintu 4 usu pukul 15:40, menaiki sepeda motor kesayangan saya
+  - setelah sampai di pintu 4 saya menemukan Shiro seorang diri disitu
+  - setelah menunggu sebentar saya dapat chat dari kak yamcha untuk melangsir beberapa peralatan yang ada di kosan bang tongem
+  - saya langsung bergerak kesana, sesampai disana saya melihat ada bang Ezeo dan ka Yamacha beserta peralatan
+  - dan tak lama kemudian mobil pickup datang, didalam nya ada bang Kraven dan Giri
+  - lalu saya membantu menaikan peralatan kedalam pickup
+  - setelah itu bang Ezeo dan kak Yamcha menaiki pickup lalu bergegas menjemput yang lainnya di pintu 4
+  - dan saya balik ke pintu 4 untuk berkumpul
+  - setelah sampai sana sudah banyak yang berkumpul
+  - setelah itu kami menunggu teman teman lain yang belum berkumpul
+  - pada pukul 17:55 kami yang naik kereta pergi duluan
+  - saya dan mule satu kereta, lalu ada gara dan shiro
+  - kami rombongan 2 kereta jadinya
+  - nah pada saat kami sampai di lampu merah siti hajar(simpang rumah bang togem)
+  - saya di telpon kak yamcha bahwa ada barang yang ketinggalan, yaitu galon
+  - pada sampai pintu 4 anggota aktif mapagratwa sudah tidak ada disitu
+  - jadi gara dan shiro menunggu di pintu 4
+  - saya dan mule masuk ke sekret untuk mengambil galon
+  - galon tersebut dinaikan di kereta gara, karena kerata saya cukup kecil jadi sulit
+  - dan kamipun melanjutkan perjalanan. Pada sampai daerah karjok (belok kiri setelah citra garden)
+  - siGara tiba tiba sadar bahwa hp nya telah hilang, kami berhenti sebentar untuk melacak hpnya
+  - lalu kami pun ganti posisi dan berpisah
+  - saya dengan Shiro serta galon
+  - Gara dan Mule mencari hp
+  - Saya dan Shiro mengisi BBM dulu di daerah johor
+  - dan langsung bergerak ke lokasi yaitu Sungai Buaya
+  - di perjalanan kami mendapati kabar, bahwa hp Gara aman, tim mobil pickup ke lubuk pakam untuk mengambil perahu, kami berada di paling depan jadinya, karena kami langsung ke tkp
+  - karena sudah malam dan lampu kendaraan saya redup kami bersistirahat sebentar di toko kelontong sembari menunggu bang Tugil dan Bakugo menyusul kami
+  - setelah mereka datang, kami pun melanjutkan perjalanan, bang Tugil dibelakang kami untuk menerangi jalan
+  - perjalanan sangat gelap dan jauh serta jalannya sangat jelek sekali. singkat cerita kami telah sampai di titik kordinat google map, tetapi kami tidak tahu spesifik tempat camp nya, sehingga kami bertanya kepada penduduk setempat
+  - dan akhrinya setelah berbincang kamipun sampai di tujuan, setelah sampai kami bertanya di rumah atau pengurus disitu untuk memastikan bahwa kami benar, lalu kami ke bawah(sungai)  untuk melihat melihat
+  - dan tak lama kemudian tim pickup pin datang,
+  - langsung kami menurunkan peralatan, dan langsung mendirikan tenda
+  - tiba tiba ada kejadian yang tidak mengenakan terjadi, didapati setelah menurunkan perahu ternyata perahunya yang seharusnya 2 malah 1,
+  - Saya Giri, Shiro dan Bang Saber membuat perapian, dan juga orang kak Tubah, Tujah, Toru, Bakugo  membuat sate
+  - setelah semua nya beres kami memulai evaluasi sembari membakar kulit lembu untu dibuat kikil dan mengipas sate
+  - ditengah evaluasi orang kak Sandes dan bang Ramulus datang menyusul,
+  - hasil dari evaluasi yang saya tangkap adalah pertama
+  - tentang keteledoran dan rasa kurang peduli terhadap sesama diambil dari galon dan perahu yang tertinggal
+  - evaluasi selesai pukul 22.20, setelah itu ada yang tidur, mandi cerita dll
+  - Saya, Shiro dan Mule ngopi di bebatuan dipinggir sungai, lalu disusul bang Saber
+  - kami ngobrol ngobrol,mendengarkan musik, foto foto dan bercerita sampai kira kira pukul 2:30 Am
+  - lalu kami tidur di tenda.
+  -
+  - minggu 31 mei 2026
+  - 6:40 saya terbangun mendengar suara tim masak, saya keluar dan langsung mencuci muka
+  - lalu setalah kami beres beres pribadi tak terasa sudah pukul 7:15 dan saatnya kami sarapan
+  - setelah itu kami melakukan senam pagi lalu memompa perahu
+  - lalu kami dibagi menjadi 4 kelompok untuk menaiki perahu
+  - 2 tim pagi dan 2 tim siang
+  - saya berada di tim siang, sekiranya jam 8
+  - 2 tim pagi, turun kesungai, kami yang tim siang melakukan packing, dan beres beres peralatan
+  - setelah itu kami santai santai, saya membuat teh manis, lalu kami pun bosan lalu memutuskan untuk mandi sungai
+  - sembari menunggu tim pagi selesai, setelah agak lama di sungai saya kembali  ke area camp duluan untuk tidur siang karena sangat mengantuk, saya tidur di packraft yang tidak digunakan,
+  - setelah beberapa lama di jam 12:00 saya terbangun karena suara berisik yang ternyata suara mobil pickup tim pagi yang sudah sampai di area camp, lalu kami makan siang dulu bersama sama
+  - dan jam 1 siang tim siang yaitu kelompok 3 dan 4 mendapat giliran untuk bergantian turun kesungai
+  - di perahu saya ada : Saya, kak Toru, Semilar, Giri, Shiro dan bang Kraven
+  - kami memulai dan ada yang mengawasi kami menggunakan packraft
+  - saat disunngai ada beberapa titik yang arusnya deras dan itu sangat sangat seru
+  - dan kami pun seolah olah berlomba dengan perahu sebelah
+  - dan tiba tiba di tengah sungai, perahu sebelah nyangkut dipusaran air, jadi perahu kami menabrak perahu mereka, eh taunya perahu mereka(bg tugil) keluar, perahu kami yang malah terjebak
+  - kami terjebak sekitar 10 menitan, lalu perahu sebelah membantu kami
+  - dengan kami melempar tali lempar lalu di tarik oleh perahu mereka, dan pada akhirnya perahu kami pun keluar juga
+  - dan kami melanjutkan mendayung hingga akhirnya kami tiba di ujung
+  - disana terdapat banyak pemukiman warga, dan anak anak yang sedang mandi sungai
+  - setelah itu kami foto foto dan packing perahu lalu naik keatas, untuk menunggu pickup datang, sembari menunggu, bang tugil membelikan kami gorengan, tim pagi juga datang berkumpul di lokasi kami
+  - lalu masuk waktu magrib, karena lokasi kami berkumpul bertepatan didepan mesjid saya pun solat dulu sebentar, setelah selesai solat pickup pun datang, dan kami langsung mengangkat peralatan ke pickup
+  - lalu saya dan mule 1 kereta lagi, ditemani oleh gon dan loka yang juga 1 kereta
+  - kami berpisah dengan mobil pickup karena mereka ke pakam dulu mengembalikan perahu
+  - di tengah perjalanan kami berempat singga dulu ke indomaret, kerena disitu ada kenalan loka dan mule
+  - kami berbicang bincang lalu balik
+  - tak lama kemudian kami terkena hujan, lalu kami meneduh di salah satu rumah warga
+  - kami masak indomi menggunakan kompor mule
+  - malam hari, hujan deras, dingin, indomiee,
+  - langsung kami berempat mengeroyok indomie tersebut
+  - dan setelah itu, menunggu hujan reda kami bercerita
+  - dan tiba tiba mule karena haus meminum air hujan langsung dari seng
+  - dan sikap meksikonya itu membuat kami tertawa, hujan pun tak kunjung reda, kamipun memutuskan untuk menerobos hujan, karena waktu sudah malam, lalu kami sampai dimedan, mengantar loka dulu, lalu gon balik
+  - mule tidur di kos saya 12:00
+  -
+- Latihan Pemantapatan Panjat Tebing
+  - jumat 19 juni 2026
+  - jadi pada lantap kedua ini, yaitu lantap panjat tebing ini kami akan pergi ke Batu Kapal, landak river yang berada di langkat bukit lawang, yang kadiv nya yaitu bang Ramulus
+  - titik kumpul kami berada di pintu 4 usu
+  - saya setelah melaksanakan solat jumat langsung menuju ke pintu 4
+  - kami menunggu rekan rekan yang lain yang belum datang, termasuk mobil pickup kami, setelah menunggu beberapa saat akhirnya mobil pickup kami datang
+  - pada pukul 02:00
+  - langsung kami menaiki peralatan, berdoa dan mengambil dokumentasi sebelum pergi
+  - 02:30 kami berangkat dari pintu 4 ke langkat
+  - estimasi kami menuju kesana yaitu sekitar 4-5 jam perjalanan, kami menikmati perjalanan dengan enjoy dan bahagia walau awal nya panas panasan
+  - hingga tak terasa cuaca yang panas menjadi mendung setiba kami sampai di dekat binjai
+  - hujan rintik rintik sudah mulai turun, langsung kami membentangkan flysheet merah milik bakugo
+  - sayangnya perjalanan panjang ini yang awalnya indah sambil melihat lihat harus tertupi oleh flyshet sepanjang jalan, dikarenakan hujan tak kunjung redah,
+  - masuk pada waktu magrib, kami berhenti sebentar, ada yang beli jajan, makan mia ayam dan ada yang beli gorengan. setelah itu kamipun melanjutkan perjalanan, masih dalam kondisi hujan,
+  - lalu kamipun sampai diarea yang tidak bisa di jangkau oleh pickup lagi, lalu kami tracking kira kira sejaman untuk sampai di area camp
+  - awalnya kami kira akan membentangkan tenda, tetapi karena yang punya lahan mengenal bang ramulus kami di perkenankan untuk tidur di pondok bambu milik bapak itu yang kami panggil pak lek, dengan syarat tidak ada satupun sampah yang boleh tertinggal nantinyam,
+  - langsung kami beres beres pribadi dan mulai  masak pada pukul 21:30,
+  - setelah semuanya beres yaitu pada pukul 23:07 kami makan malam sampai pukul 23:33, lalu kami mencuci piring masing masing di area parit kecil tapi airnya jernih
+  - lalu kami mulai breafing hari ini dan juga untuk besok
+  - hingga tak terasa sudah pukul 02:29
+  - setelah selesai kamipun langsung tidur
+  -
+  - sabtu 20 juni 2026
+  - kami bangun pukul 06:30, saya langsung cuci muka dulu terus membatu apa yang bisa di bantu seperti membantu tim dapur dan menyiapkan peralatan untuk manjat, tim masak selesai masak pada pukul 08:30, lalu kami makan pukul 09.05, lalu kami beres beres dan merapikan peralatan masak, lalu kami memulai brifing dan berdoa sebentar sebelum berangkat ke area tebing yang akan di panjat, kami sampai di area panjat pertama pukul 10.00
+  - kami tracking ke area pertama sekitaran 15 menitan, selama tracking saya takjub melihat tebing yang sangat besar dan bentuknya seperti kapal
+  - setelah sampai langsung kadiv kami bang ramulus menjelaskan peralatan, teknik dan juga simpul
+  - sebelum manjat kami harus bisa dan wajib untuk membuat simpul delapan ganda, untuk di ikatkan ke seat harness dari tali weebing
+  - kami mendapat jatah 1 orang untuk manjat dengan 2 kali istirahat(di pull), dikarenakan peserta yang sangat banyak, lalu pada saat sekiranya jam 1, tim masak kekurangan logistik tempe, dan saya diminta mereka untuk mengambil tempe yang kurang sekalian matrass
+  - setelah makanan dihidangkan, kamipun makan bersama, 1 piring 2 orang, dan saya berpasangan dengan mulle
+  - setelah itu di lanjutkan memanjat beberapa orang lagi yang belum memanjat, hingga akhirnya pada pukul 15:27 kami pergi ke lokasi pemanjatan yang kedua, di lokasi ini
+  - sangat berbeda dengan lokasi pertama
+  - disini jalur panjatnya sangat basah dan berair, serta cuma vertikal, sangat berbeda dengan lokasi yang pertama, kamipun manjat bergiliran dimulai dengan bang saber yang memasang runner, dilanjut dengan gara dan mule terlebih dahulu, dikarenakan senior kami bang samson datang, dan menyuruh meraka untuk melakukan sesuatu, sistem nya sama 1 peserta hanya melakukan 1 kali pemanjatan, sembari menunggu antrian, beberapa dari kami disuruh oleh bang ramulus untuk bouldering di dekat lokasi pemanjatan lead, jalurya agak susah diawal, tapi berhasil kami top kan
+  - tal terasa waktupun semakin gelap, yang cewe duluan pergi untuk beres beres dan mandi setelah itu giliran kmai yang cowok manjat, hingga pada puku 18:30 kami juga selesai dan menyusul mereka kesungai
+  - dikarenan jarak camp kami cuma beberapa menit jalan ke area sungai, setelah kami masak pada pukul 18.56 yang tidak ada kerjaan bisa beres beres barang pribadi dan kamu mulai makan pada pukul 20.35 lalu selesai pukul 21.02 setelah beres beres, nyuci piring dan mulai briefing pukul 21.15, topik yang dibahas yaitu pertama kami kurang puas manjat nya karena dapat gilira manjat 1 kali, lalu soal menghitung uang yang agak rumit pada awalnya dikarenak kak Simalambou tidak hadir pada saat itu, tapi akhirya berasil diselesaikan, lalu lupa pendinginan, karena sudah banyak yang cape brifing malam ini agak cepat yaitu selesai pada pukul 22.14, setelah itu yang lain pada tidur, kami khususnya beberapa angkatan 34 dan abang kakak 33 masih belum tidur, kami masih menikmati susu dan kopi yang dibuat mulle, lalu kami bercerita cerita dan pada malam semakin larut, tersisah beberapa dari kami, ada Saya, mulle, gon dan kak sandes, kami masih melanjutkan bermain kartu, sambil tertawa tertawa, hingga akhirya mule dan kak sandes ngantuk, tersisah saya dan gon, kami melihat bintang yang sangat banyak dan cantik sekali malam itu, karena harinya cerah,
+  - setelah melihat bintang bintang kamipun tidur pukul 12.00
+  -
+  - minggu 21 juni 2026
+  - saya terbangun mendengar suara berisik dari yang lain yang sudah terbangun terlebih dahulu 7.00 , langsung saya mandi sebentar, lalu membantu mencuci piring
+  - lalu kamipun selesai masak pukul 08.10 dan menunggu beberapa yang lain yang masih packing pribadi dan beres beres, dan kami makan pukul 08.34 selesai pukul 08.45 lalu kami clear area, terus dokumentasi dan tak lupa berterima kasih pada pak lek, (yang menjaga tempat itu dan memandu kami) lalu kami tracing sampai tempat yang bisa di jangkai mobil pickup dan sampai pada pukul 10.25 tepatnya di jembatan.
+  - lalu kami langsung berangkat dan ada singgah sebentar di warung untuk beli minum,
+  - kali ini baru berbeda dengan perjalan pergi, kami bisa melihat pemandangan, dan menikmati perjalanan karena harinya sangat cerah sekali dan panas, hingga saya pun agak mual di dalam pickup itu
+  - lalu kami tiba dimedan pukul 13.50 dan langsung menyuruh sopir pickup masuk ke polmed
+  - kami langsung meletakan peralatan disekret tercinta
+  - dan langsung pada balik ketujuan masing masing
+  -
+  -
+  -
+- Latihan Pemantapan Gunung Rimba
+  - jumat 3 juli 2026
+  - jadi hari ini kami akan melaksanakan lantap ke 3 kami divisi gunung rimba yang kadivnya bang kraven,
+  - lokasinya didesa negeri gugung
+  - jadi titik kumpul kami berada di pintu 4 usu seperti biasa
+  - saya saat itu sedang berada di kos dan meminta giri untuk menjemput saya
+  - lalu kami kesekret untuk mengambil kunci kos giri yang tertinggal,lalu saya dan giri menuju kos nya untuk mengantar keretanya, dan kami berjalan dari kosnya menuju titik kumpul
+  - setelah menunggu yang lain untuk berkumpul kami melanjutkan perjalanan pada pukul 16.01
+  - sopir kami sempat berhenti sebentar di indomaret lalu ada beberapa dari anggota aktif yang membeli snack dan minuman, perjalanan kami sangat menyenangkan dan seru, sesampainya disimpang bukum kami melihat rombongan dari mapala unimed karena memakai mitela warna merah(sepertinya mereka melaksanakan diksar)
+  - setelah terus masuk lebih dalam, saya perhatikan jalurnya mirip jalur diksar kami, dan ternyata emang jalur diksar kami, jadi kami khususnya angkatan 34 bernostalgia di mobil pickup, dan bercanda
+  - lalu sampailah kami di pertigaan dan mobil pickup tidak bisa masuk lagi
+  - kami melanjutkan dengan tracking ke desa negeri gugung dan sampai pada pukul 19.07
+  - dan sampai di area camp 19:17 kami camp di jambur desa setempat
+  - tempatnya yaa saya rasa lumayan kotor dan banyak kotoran anjing disitu,
+  - langsung kami memasang tenda dan ada yang memasak, setelah tenda terpasang kami beres beres pribadi dan ada juga yang mandi termasuk saya
+  - 21.08  kami bersiap untuk makan malam setelah selesai makan kami beres beres sebentar untuk melakukan briefing
+  - dan selesai pada pukul 22.04
+  - inti dari briefing saya rasa yang pertama
+  - keterlambatan kami, lalu permasalahan nama desa dan mulai untuk evaluasi besok
+  - khususnya tentang sosialisasi penduduk
+  - berikut beberap pertanyaan yang disuruh bang kraven untuk ditanyakan
+  - Pertanyaan saat sosped:
+    1.siapa nama kepala desa
+    Endang Sembiring
+    2.hasil pertanian desa gugung
+    Karet,kencot asam
+    3.apakah ada program pemerintah yang membantu perekonomian di desa ini
+    Bantuan pupuk organik
+    4.di tengah- tengah maraknya MBG saat ini apakah berdampak di desa gugung ini
+    Kurang berdampak
+    5.apa yang di ketahui oleh warga sekitar tentang deleng takur takur
+  -
+  - Saat di trek yang harus di tanyakan:
+    1.Nama atau marga yang kita tanyakan itu
+    2.Menanam apa aja di kebun
+    3.Mengapa para petani desa negeri gugung membuka lahan sampai di lereng gunung
+    4.Apakah ada pemberitahuan kepada kepala desa saat membuka lahan di lereng gunung itu
+  -
+  - 22.55 kami selesai evaluasi dan breafing ada yang tidur dan masih ada yang berbicara orang bang zeo, bang ramulus dan bang kraven ngobrol sama pemuda setempat
+  - lalu kami saya, gara, bacit, bakugo, bercerita sampai larut dan giri sudah tidur duluan
+  - gara selalu bercerita tentang when yak, sampai kami memberikan julakan padanya yaitu gawen
+  - lalu  saat kami becerita saudara kami shiro dan mulle datang menyusul , saya datang menyambut mereka dan memberikan makanan yang sudah disisipkan sebelumnya untuk mereka
+  - dan saya pun langsung tidur
+  -
+  - sabtu 4 juli 2026
+  - sekiranya pukul 4 pagi saya dibangunkan oleh bang ramulus seorang diri
+  - dan saya langsung mengerti pasti untuk menebus hukuman karena saya menghilangkan/meninggalkan mitela saya di rumah pendiri yaitu bang tongem
+  - saya mengikuti bang ramulus ke sungai, sesampainya disungai sudah ada bang ezeo dan bang kraven
+  - bang ezeo menanyakan pada saya tau alasan mu dibawa kemari?
+  - dan saya menjawab iyaa saya tau
+  - lalu saya di beri arahan dan melaksanakan push up berseri seri dari mereka juga saya dijadikan teh celup
+  - beruntung airnya agak hangat karena bercampur dengan air belerang
+  - inti dari nasehat mereka saya kira yang pertama
+  - saya membuat kesalahan fatal yaitu menghilangkan mitela yang merupakan sesuatu yang sangat susah didapat atau nyawa sendiri terus yang mendapatkan mitelnya yaitu pendiri
+  - kedua sikap saya atau omongan saya kepada bang tongem kurang sopan dan terlalu santai
+  - setelah itu saudara saudara saya datang melihat saya
+  - didampingi kak toru dan kak tumak
+  - kemudian saya harus membuat video klarifikasi untuk berjanji tidak meninggalkan mitela lagi
+  - setelah itu saudara saudara saya disuruh kak tumak untuk memasak dan melakukan persiapan packing
+  - dan saya pun di wawancara oleh kak tumak ditemani bang zeo sebagai bph
+  - saya di tanyai persoalan angkatan kami yang intinya saya tanggap yaitu
+  - kami hanya solid dan kompak untuk satu angkatan saja
+  - setelah itu kami bertigapun kembali ke area camp
+  - sesampainya disana saya melihat saudara saudara saya sedang packng tenda dan masak
+  - saya langsung kekamar mandi untuk berganti baju
+  - selanjutan kami sarapan pagi 07.11
+  - dan selesai makan pukul 07.23
+  - lalu kami melakukan pemanasan pukul 08.00 lanjut berdoa kemudian dilanjutkan berjalan ke
+  - deleng takur takur, di perjalanan kami sosialisasi di desa setempat
+  - dan menanyakan pertanyaan yang sudah disiapkan tadi malam
+  - lalu kami mulai melakukan tracking hingga kami sampai di area yang ada pemandangannya, disanalah kami melakukan materi navigasi darat 10.43
+  - kami disuruh mengeluarkan peralatan navdar, buku, pulpen, kompas, protaktor dll dan peta, dengan peta perbandingan 1:50
+  - kami membidik beberapa titik dan menyamakan dengan ada di peta tentu agar sesuai peta harus diutarakan terlebih dahulu
+  - kami belajar sudut azimut yang dimana sudut tujuan dan back azimut yaitu sudut balik
+  - selanjutnya kami diajari untuk menentukan lokasi kita yaitu
+  - refraksi membidik 2 atau lebih titik lalu mengambil back azimutnya hingga bertemunya garis garis tersebut
+  - disitulah lokasi kita
+  - hingga tak terasa waktu menunjukan pukul 12.55, kami selesai melaksanakan materi navdar dan segera mempersiapkan makan siang, dan selesai makan pada pukul 13.18
+  - lanjut kami packing untuk melanjutkan perjalanan, dan kami sudah mulai masuk kedalam hutan, dan tak lupa ada seekor kucing yang mingkuti perjalanan kami
+  - kami pin masuk kehutan, yang sangat lembab dan banyak sekali pacat
+  - lalu ditengah hutan itu kami melakukan materi ppgd
+  - yang dicontohkan oleh mule dan gon
+  - setelah itu kami membuat bivak alam dilokasi yang sama
+  - kami pun bergegas untuk mengumpulkan kayu dan daun daun
+  - tak lama kemudian hujan pun turun, lalu kami memakai ponco kami
+  - dan melanjutkan membuat bivak, kami telat dan selalu minta waktu tambahan
+  - hingga akhirnya bivak kamipun jadi ala kadarnya dan kami melaksanakan seri bersama karena telat
+  - selanjutnya kami mencari kayu dan membuat perapian
+  - sekalian masak, ada yang beres beres dan ganti baju
+  - karena gas kami habis kamipun masak di bara api
+  - persiapan masak pukul 19.01  pukul 20.30 kami persiapan makan malam lalu persiapan tidur di bivak yang kami buat
+  - dialasi terpal karena sudah basah karena hujan sebelumnya, kamipun tidur dalam keadaan nyenyak karena kecapean
+  - dan tiba tiba sekiranya pukul 2 malam, hujan tiba tiba turun dan kamipun terbangun karena air merembes dan menetes dari atap dedaunan, setelah itu atap tersebut kami lapisi dengan terpal dan flyshet lalu kami melanjutkan untuk tidur kembali
+  -
+  -
+  - minggu 5 juli 2026
+  - kami bangun pada pukul 06.13 dan kami siap siap untuk masak pukul 06.20
+  - lalu serapan pagi pada pukul 08.02 selesai 08.15
+  - kami packing dan beres beres pribadi terlebih dahulu
+  - peralatan carrier dll, dijaga oleh bang ramulus dan bang ezeo
+  - kamipun tracking menuju pilar, traknya lumayan menantang dan bikin ngosngosan ditambah dengan banyaknya pacat, setelah melalui hutan dan menikmatinya kamipun sampai di pilar deleng takur takur pada pukul 11.02
+  - setelah itu kami menarik nafas sebentar, lalu melakukan 1 seri dan mengambil dokumentasi hingga 11.55
+  - kami balik ke area camp
+  - dan bergegas balik untuk makan siang di rumah bang purba (tempat melakukan navdar) dan sampai pada pukul 01.46 setelah makan siang kami langsung bergerak untuk turun ke desa
+  - di track kami sempat trail run dan havefun hingga pada akirnya loka terjatuh
+  - dan kami sampai di desa, sesampai didesa baru disadari bahwa kunci kereta shiro tertinggal si tas kecil bang kraven di area camp, sehingga mereka berdua masuk lagi kehutan, di tambah dengan sopir mobil pickup tidak menjemput kami, dan kami pun perjalan menuju ke simpang 3 tempat dimana kami diturunkan di pickup sebelumnya
+  - dan tiba tiba bang kraven dan shiro juga ikut menyusul dengan kereta
+  - dan kamipun niatnya berjalan sampai simpang bukum dan shiro dan bang kraven mencari pickup
+  - sesampainya di sempuran putih yaitu pada menjelang magrib dan hari sudah mulai gelap dan yang lain pada cape
+  - kami dapat kabar bahwa bang kraven menemukan pickup
+  - kami semua pun naik dan diantar sampai simpang bukum dan selanjutnya kami pulang kemedan naik sutra lalu sampai dimedan pukul 21.09 dan kami kembali ke kos dan rumah masing masing
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+-
