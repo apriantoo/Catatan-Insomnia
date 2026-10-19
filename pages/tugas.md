@@ -1,0 +1,8 @@
+- #[[matakuliah semester 5]]
+- [[rekayasa trafik]]
+- antena tinggal menambahkan gambar pada tugas tulis tangan
+- #iot
+- #[[keamanan jaringan]]
+-
+-
+-

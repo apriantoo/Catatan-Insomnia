@@ -1,0 +1,9 @@
+- judul : penentuan posisi bts
+- daftar isi
+- 1. tujuan percobaan
+- 2. daar teori
+- 3. langkah percobaan
+- 4 hasil percobaan
+- 5, analisa data
+- 6. kesimpulan
+- kertas wana ijo

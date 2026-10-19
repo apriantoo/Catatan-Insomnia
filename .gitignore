@@ -1,8 +1,2 @@
-# Logseq
-logseq/.recycle
-logseq/bak
-db.sqlite*
-db-worker*
-client-ops-*
-backup/
-search/
+.logseq/
+logseq/bak/

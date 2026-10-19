@@ -1,0 +1,11 @@
+- cara download video youtube pervideo atau per playlist
+	- install
+	-
+	- yay -S yt-dlp-git
+	- contoh perintah dan jangan diubah
+	- yt-dlp -f "bestvideo[height<=720]+bestaudio/best[height<=720]" "https://youtu.be/tqrPX6wksf0?si=eOgnXTxQ3X4So6bY"
+	-
+	- yt-dlp -f "bestvideo[height<=480]+bestaudio/best[height<=480]" "https://youtu.be/f7S-27ENEzg?si=A-E8P0vV7JGp6uaa"
+-
+- cara setting pipewire biar bisa mainin qualitas music apalagi kalau terhubung ke speaker bukan pake alsa,
+- salah satunya buat naikin bass dan bikin pengalaman mendengar musik jadi lebih baik lagi

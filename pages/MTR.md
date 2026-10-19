@@ -1,0 +1,24 @@
+- MTR (My Traceroute)
+	- adalah alat diagnostik jaringan yang menggabungkan fungsi ping dan traceroute ke dalam satu tampilan *real-time*.<!----> Jika `traceroute` biasa hanya memberi satu kali jepretan foto rute jaringan, MTR bekerja seperti rekaman video langsung yang terus-menerus mengirim paket data ke setiap router (*hop*) dari komputer lokal hingga server tujuan
+	-
+	- ### Sejarah & Perkembangan
+	- 1997 (Matt's Traceroute): MTR pertama kali ditulis oleh Matt Kimball.
+	- Saat itu, alat diagnostik standar seperti traceroute terasa lambat dan kurang efektif untuk melacak koneksi yang fluktuatif karena hanya melakukan *probing* sekali jalan.
+	- **1998 (Transisi ke My Traceroute): Pemeliharaan proyek ini diambil alih oleh Roger Wolff. Namanya kemudian diubah menjadi My Traceroute** agar lebih umum dan dikembangkan di bawah lisensi terbuka (GNU GPL).
+	- Perkembangan Lanjutan: Seiring berjalannya waktu, MTR diperbarui untuk mendukung antarmuka grafis (GTK+), protokol IPv6, serta pengujian menggunakan paket UDP dan TCP (SYN). Di platform Windows, fungsionalitas MTR populer diadopsi oleh aplikasi pihak ketiga bernama WinMTR
+	-
+	- Cara penggunaan:
+	- MTR tersedia secara bawaan atau dapat diinstal melalui repositori utama di hampir seluruh distro Linux dan macOS.
+	-
+	- perintah dasar
+	- mtr google.com
+	- Perintah ini membuka tampilan *ncurses* yang diperbarui setiap detik secara *live*. Tampilan ini menampilkan tingkat *packet loss*, latensi rata-rata (*Avg*), latensi terendah (*Best*), latensi tertinggi (*Worst*), dan standar deviasi (*StDev*).
+	-
+	- mode laporan(format ringkas)
+	- mtr -r -c 100 google.com
+	- Opsi `-r` (*report*) dan `-c 100` (*count*) akan mengirimkan 100 paket ke setiap *hop*, lalu menampilkan ringkasan akhirnya dalam bentuk teks statis. Mode ini adalah format standar yang biasanya diminta oleh *Internet Service Provider* (ISP) atau tim *support* hosting saat mengajukan tiket keluhan.
+	-
+	- **Opsi Tambahan yang Sering Digunakan**
+	- **Opsi `-n` (Tanpa Resolusi DNS):** `mtr -n google.com` untuk menampilkan alamat IP mentah tanpa mengubahnya menjadi nama domain, sehingga proses *probing* berjalan lebih cepat.
+	- **Mode TCP SYN (`-T`):** `sudo mtr -T -P 443 google.com` digunakan untuk mendiagnosis rute lalu lintas HTTPS (port 443) ketika lalu lintas ICMP/ping diblokir oleh *firewall* di tengah jalan
+-

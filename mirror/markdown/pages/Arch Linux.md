@@ -2,13 +2,39 @@ id:: 6a85ebb8-818a-4cd8-b219-d7f465d1fcf3
 * Extends:: Root Tag
 
 - Cara install [[GNS3]]
-  - yay -S qemu docker vpcs dynamips libvirt ubridge inetutils
-  - yay -S gns3-server gns3-gui
-  - done
+	- yay -S qemu docker vpcs dynamips libvirt ubridge inetutils
+	- yay -S gns3-server gns3-gui
+	- done
 -
 - Cara install [[Wireshark]]
-  - sudo pacman -S wireshark-qt
-  - sudo usermod -aG wireshark $USER
+	- sudo pacman -S wireshark-qt
+	- sudo usermod -aG wireshark $USER
 -
 - Cara install [[GNU Octave]]
 -
+- menginstall vlc
+- sudo pacman -S vlc
+- install depdency yang dibutuhkan
+- sudo pacman -S ffmpeg
+- install camera
+- yay -S cheese
+- kalo eror ctrl c lalu
+- sudo pacman -Syu xmlto docbook-xsl
+- tetep gagal
+-
+- cara install bluetooth
+- sudo pacman -S bluez bluez-utils blueman
+-
+- cara install jam dan alarm
+- sudo pacman -S gnome-clocks
+-
+-
+- kitab suci arch linux
+- download html nya
+- sudo pacman -S arch-wiki-docs
+- untuk membukanya ketik di terminal
+- xdg-open /usr/share/doc/arch-wiki/html/en/Main_page.html
+-
+-
+- cara install simulide2
+- yay -S simulide2-bin

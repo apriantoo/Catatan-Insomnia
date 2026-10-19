@@ -1,0 +1,20 @@
+- tentang kewarganegaraan
+- pertama apa itu kewarganegaraan?
+- kita masuk dulu kedefinisinya
+- Kewarganegaraan adalah status hukum yang menunjukkan keanggotaan seseorang dalam suatu satuan politik atau negara. Status ini memberikan ikatan berupa hak dan kewajiban timbal balik antara individu dan negara tersebut
+-
+- berikut idenya
+- Mengkritisi kebijakan pemblokiran konten/sensor internet oleh negara vs. pemenuhan hak kebebasan berpendapat di ruang digital
+  logseq.order-list-type:: number
+- Kebebasan Berpendapat (Pasal 28) dan wawasan siber nasional. Lu membedakan mana batas "bela negara dari hoaks" dan mana "pembungkaman hak digital warga"
+-
+- 2.
+- **Bentuk Output:** Web Landing Page Sederhana (bisa pakai Notion/Framer/HTML biasa) yang menampilkan data hasil survei persepsi publik.
+- **Topik Spesifik:** "Tingkat Kesadaran Hukum Mahasiswa Teknik terhadap Implikasi UU ITE dalam Aktivitas Digital Sehari-hari".
+- **Substansi KWN:** Kesadaran hukum, etika berdemokrasi di media sosial, dan hak asasi manusia di ruang digital
+-
+- 3. Kemerdekaan Akses Digital: Menagih Hak Warga Negara atas Jaringan Telekomunikasi Murah dan Stabil"
+- **Bentuk Output:** Mini-Website/Landing Page (pake Framer/Notion/HTML) yang menampilkan data ketimpangan harga vs performa jaringan.
+- **Apa yang Dilakukan Kelompok Lu:**
+- Menyajikan peta interaktif atau grafik sederhana perbandingan tarif paket data berbagai operator dengan realita performa di lapangan.
+- Membedah pasal-pasal kewarganegaraan dan UU Telekomunikasi yang menjamin kesetaraan akses digital.

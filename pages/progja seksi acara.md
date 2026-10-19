@@ -1,0 +1,47 @@
+- caption postingan ig
+- list peralatan/barang yang digunakan lalu diinfokan sama ppt
+-
+- ppt
+- gelang caang
+- bandana
+- ukuran bandana 30cm x 30cm
+-
+- pada saat oprel
+- meja
+- spanduk
+- kursi
+- aksesoris: tali, carabiner
+-
+- buat grupp wa
+-
+- bagi semua panitia ngechat senior
+- tujuan
+- danus
+- pemateri
+-
+- wawancara
+- ketupad
+- bpf
+- senior 2
+- kalau gabisa offline, online
+-
+-
+- undangan temu ramah
+- pendiri
+- senior
+-
+-
+- formulir latihan fisik caang
+-
+- tukang info kek botol minum
+- pembagian jadwal jaga caang
+-
+- list latihan fisik
+-
+-
+-
+- yang diperlukan dalam waktu cepat
+- formulir pendaftaran
+-
+- [[cap postingan]]
+-

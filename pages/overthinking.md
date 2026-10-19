@@ -1,0 +1,10 @@
+- tak tau harus darimana perasaan yang tidak mengenakan ini harus kuuraikan
+- bertubi tubi menghantam hati, logika dan menyesakan dada
+- hingga terjatuh sakitlah aku dalam beberapa hari ini dan dalam mengetik ini
+-
+-
+-
+-
+-
+-
+- #3726

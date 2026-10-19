@@ -1,0 +1,1 @@
+- sebelum beli hp coba tanya dulu sama kak siluh, ada hp apa aja yang redy

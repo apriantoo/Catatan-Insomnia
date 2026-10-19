@@ -1,0 +1,2 @@
+- Saat review: tekan "Again" kalau ragu sedikit pun, "Good" kalau tahu jawabannya, hindari terlalu sering pakai "Easy"
+-

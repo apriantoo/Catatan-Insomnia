@@ -1,0 +1,5 @@
+- baru di infoin pas ditanya
+- boncengan lagi
+- dua cewe dua cowo ke kemarin
+- ahh agak dagdigdug jantung serta lemas juga badan ini
+-

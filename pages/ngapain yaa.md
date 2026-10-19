@@ -1,0 +1,3 @@
+- cara simulasi jaringan tanpa internet
+- di gns3, virtualbox, cisco, mikrotik
+-
